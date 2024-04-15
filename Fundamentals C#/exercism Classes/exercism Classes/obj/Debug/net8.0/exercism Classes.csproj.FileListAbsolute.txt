@@ -1,0 +1,4 @@
+C:\Users\san3s\GIT\Fundamentals C#\exercism Classes\exercism Classes\obj\Debug\net8.0\exercism Classes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\san3s\GIT\Fundamentals C#\exercism Classes\exercism Classes\obj\Debug\net8.0\exercism Classes.AssemblyInfoInputs.cache
+C:\Users\san3s\GIT\Fundamentals C#\exercism Classes\exercism Classes\obj\Debug\net8.0\exercism Classes.AssemblyInfo.cs
+C:\Users\san3s\GIT\Fundamentals C#\exercism Classes\exercism Classes\obj\Debug\net8.0\exercism Classes.csproj.CoreCompileInputs.cache

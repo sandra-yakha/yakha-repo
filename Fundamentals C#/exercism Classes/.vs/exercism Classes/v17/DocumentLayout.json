@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\san3s\\GIT\\Fundamentals C#\\exercism Classes\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3F537B8F-B416-4EEE-9339-AE387E304D85}|exercism Classes\\exercism Classes.csproj|c:\\users\\san3s\\git\\fundamentals c#\\exercism classes\\exercism classes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F537B8F-B416-4EEE-9339-AE387E304D85}|exercism Classes\\exercism Classes.csproj|solutionrelative:exercism classes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\san3s\\GIT\\Fundamentals C#\\exercism Classes\\exercism Classes\\Program.cs",
+              "RelativeDocumentMoniker": "exercism Classes\\Program.cs",
+              "ToolTip": "C:\\Users\\san3s\\GIT\\Fundamentals C#\\exercism Classes\\exercism Classes\\Program.cs",
+              "RelativeToolTip": "exercism Classes\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T11:16:41.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
