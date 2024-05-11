@@ -1,0 +1,14 @@
+C:\Users\san3s\OneDrive\Desktop\FactoryMethodAssignment1\FactoryMethodAssignment1\obj\Debug\net8.0\FactoryMethodAssignment1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\san3s\OneDrive\Desktop\FactoryMethodAssignment1\FactoryMethodAssignment1\obj\Debug\net8.0\FactoryMethodAssignment1.AssemblyInfoInputs.cache
+C:\Users\san3s\OneDrive\Desktop\FactoryMethodAssignment1\FactoryMethodAssignment1\obj\Debug\net8.0\FactoryMethodAssignment1.AssemblyInfo.cs
+C:\Users\san3s\OneDrive\Desktop\FactoryMethodAssignment1\FactoryMethodAssignment1\obj\Debug\net8.0\FactoryMethodAssignment1.csproj.CoreCompileInputs.cache
+C:\Users\san3s\OneDrive\Desktop\FactoryMethodAssignment1\FactoryMethodAssignment1\bin\Debug\net8.0\FactoryMethodAssignment1.exe
+C:\Users\san3s\OneDrive\Desktop\FactoryMethodAssignment1\FactoryMethodAssignment1\bin\Debug\net8.0\FactoryMethodAssignment1.deps.json
+C:\Users\san3s\OneDrive\Desktop\FactoryMethodAssignment1\FactoryMethodAssignment1\bin\Debug\net8.0\FactoryMethodAssignment1.runtimeconfig.json
+C:\Users\san3s\OneDrive\Desktop\FactoryMethodAssignment1\FactoryMethodAssignment1\bin\Debug\net8.0\FactoryMethodAssignment1.dll
+C:\Users\san3s\OneDrive\Desktop\FactoryMethodAssignment1\FactoryMethodAssignment1\bin\Debug\net8.0\FactoryMethodAssignment1.pdb
+C:\Users\san3s\OneDrive\Desktop\FactoryMethodAssignment1\FactoryMethodAssignment1\obj\Debug\net8.0\FactoryMethodAssignment1.dll
+C:\Users\san3s\OneDrive\Desktop\FactoryMethodAssignment1\FactoryMethodAssignment1\obj\Debug\net8.0\refint\FactoryMethodAssignment1.dll
+C:\Users\san3s\OneDrive\Desktop\FactoryMethodAssignment1\FactoryMethodAssignment1\obj\Debug\net8.0\FactoryMethodAssignment1.pdb
+C:\Users\san3s\OneDrive\Desktop\FactoryMethodAssignment1\FactoryMethodAssignment1\obj\Debug\net8.0\FactoryMethodAssignment1.genruntimeconfig.cache
+C:\Users\san3s\OneDrive\Desktop\FactoryMethodAssignment1\FactoryMethodAssignment1\obj\Debug\net8.0\ref\FactoryMethodAssignment1.dll

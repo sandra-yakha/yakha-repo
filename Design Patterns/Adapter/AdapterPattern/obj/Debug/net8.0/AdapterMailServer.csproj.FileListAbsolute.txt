@@ -1,0 +1,15 @@
+C:\Users\san3s\GIT\yakha-repo\Design Patterns\Adapter\AdapterPattern\bin\Debug\net8.0\AdapterMailServer.exe
+C:\Users\san3s\GIT\yakha-repo\Design Patterns\Adapter\AdapterPattern\bin\Debug\net8.0\AdapterMailServer.deps.json
+C:\Users\san3s\GIT\yakha-repo\Design Patterns\Adapter\AdapterPattern\bin\Debug\net8.0\AdapterMailServer.runtimeconfig.json
+C:\Users\san3s\GIT\yakha-repo\Design Patterns\Adapter\AdapterPattern\bin\Debug\net8.0\AdapterMailServer.dll
+C:\Users\san3s\GIT\yakha-repo\Design Patterns\Adapter\AdapterPattern\bin\Debug\net8.0\AdapterMailServer.pdb
+C:\Users\san3s\GIT\yakha-repo\Design Patterns\Adapter\AdapterPattern\obj\Debug\net8.0\AdapterMailServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\san3s\GIT\yakha-repo\Design Patterns\Adapter\AdapterPattern\obj\Debug\net8.0\AdapterMailServer.AssemblyInfoInputs.cache
+C:\Users\san3s\GIT\yakha-repo\Design Patterns\Adapter\AdapterPattern\obj\Debug\net8.0\AdapterMailServer.AssemblyInfo.cs
+C:\Users\san3s\GIT\yakha-repo\Design Patterns\Adapter\AdapterPattern\obj\Debug\net8.0\AdapterMailServer.csproj.CoreCompileInputs.cache
+C:\Users\san3s\GIT\yakha-repo\Design Patterns\Adapter\AdapterPattern\obj\Debug\net8.0\AdapterMailServer.sourcelink.json
+C:\Users\san3s\GIT\yakha-repo\Design Patterns\Adapter\AdapterPattern\obj\Debug\net8.0\AdapterMailServer.dll
+C:\Users\san3s\GIT\yakha-repo\Design Patterns\Adapter\AdapterPattern\obj\Debug\net8.0\refint\AdapterMailServer.dll
+C:\Users\san3s\GIT\yakha-repo\Design Patterns\Adapter\AdapterPattern\obj\Debug\net8.0\AdapterMailServer.pdb
+C:\Users\san3s\GIT\yakha-repo\Design Patterns\Adapter\AdapterPattern\obj\Debug\net8.0\AdapterMailServer.genruntimeconfig.cache
+C:\Users\san3s\GIT\yakha-repo\Design Patterns\Adapter\AdapterPattern\obj\Debug\net8.0\ref\AdapterMailServer.dll
