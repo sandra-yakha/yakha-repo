@@ -1,0 +1,43 @@
+﻿** Highlights
+     Tables that will be recreated with data migrated
+       None
+     Clustered indexes that will be dropped
+       None
+     Clustered indexes that will be created
+       None
+     Possible data issues
+       The column [dbo].[Complaints].[CurrentStatus] on table [dbo].[Complaints] must be added, but the column has no default
+         value and does not allow NULL values. If the table contains data, the ALTER script will not work. To avoid this issue
+         you must either: add a default value to the column, mark it as allowing NULL values, or enable the generation of
+         smart-defaults as a deployment option.
+       The column [dbo].[Complaints].[Date] on table [dbo].[Complaints] must be added, but the column has no default value and
+         does not allow NULL values. If the table contains data, the ALTER script will not work. To avoid this issue you must
+         either: add a default value to the column, mark it as allowing NULL values, or enable the generation of smart-defaults
+         as a deployment option.
+       The column [dbo].[Complaints].[SourceAddress] on table [dbo].[Complaints] must be added, but the column has no default
+         value and does not allow NULL values. If the table contains data, the ALTER script will not work. To avoid this issue
+         you must either: add a default value to the column, mark it as allowing NULL values, or enable the generation of
+         smart-defaults as a deployment option.
+       The type for column Category in table [dbo].[Complaints] is currently  NVARCHAR (200) NULL but is being changed to  INT
+         NOT NULL. Data loss could occur and deployment may fail if the column contains data that is incompatible with type  INT
+         NOT NULL.
+
+** User actions
+     Rename
+       [dbo].[Complaints].[Category] (Column)
+       [dbo].[Complaints].[ComplaintDescription] (Column)
+     Alter
+       [dbo].[Complaints] (Table)
+
+** Supporting actions
+     Refresh
+       [dbo].[INSERT_Complaints] (Procedure)
+
+The column [dbo].[Complaints].[CurrentStatus] on table [dbo].[Complaints] must be added, but the column has no default value and does not allow NULL values. If the table contains data, the ALTER script will not work. To avoid this issue you must either: add a default value to the column, mark it as allowing NULL values, or enable the generation of smart-defaults as a deployment option.
+The column [dbo].[Complaints].[Date] on table [dbo].[Complaints] must be added, but the column has no default value and does not allow NULL values. If the table contains data, the ALTER script will not work. To avoid this issue you must either: add a default value to the column, mark it as allowing NULL values, or enable the generation of smart-defaults as a deployment option.
+The column [dbo].[Complaints].[SourceAddress] on table [dbo].[Complaints] must be added, but the column has no default value and does not allow NULL values. If the table contains data, the ALTER script will not work. To avoid this issue you must either: add a default value to the column, mark it as allowing NULL values, or enable the generation of smart-defaults as a deployment option.
+The column Address on table [dbo].[Complaints] must be changed from NULL to NOT NULL. If the table contains data, the ALTER script may not work. To avoid this issue, you must add values to this column for all rows or mark it as allowing NULL values, or enable the generation of smart-defaults as a deployment option.
+The column Category on table [dbo].[Complaints] must be changed from NULL to NOT NULL. If the table contains data, the ALTER script may not work. To avoid this issue, you must add values to this column for all rows or mark it as allowing NULL values, or enable the generation of smart-defaults as a deployment option.
+The type for column Category in table [dbo].[Complaints] is currently  NVARCHAR (200) NULL but is being changed to  INT NOT NULL. Data loss could occur and deployment may fail if the column contains data that is incompatible with type  INT NOT NULL.
+The column Name on table [dbo].[Complaints] must be changed from NULL to NOT NULL. If the table contains data, the ALTER script may not work. To avoid this issue, you must add values to this column for all rows or mark it as allowing NULL values, or enable the generation of smart-defaults as a deployment option.
+

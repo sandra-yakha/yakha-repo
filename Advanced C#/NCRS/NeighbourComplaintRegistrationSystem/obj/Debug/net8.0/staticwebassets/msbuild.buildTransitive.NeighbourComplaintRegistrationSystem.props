@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\NeighbourComplaintRegistrationSystem.props" />
+</Project>

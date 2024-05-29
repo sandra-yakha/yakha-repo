@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Operations Version="1.0" xmlns="http://schemas.microsoft.com/sqlserver/dac/Serialization/2012/02">
+  <Operation Name="Rename Refactor" Key="00cb9644-ebe4-4026-88f6-df83f323e169" ChangeDateTime="05/28/2024 21:00:35">
+    <Property Name="ElementName" Value="[dbo].[Complaints].[ComplaintDescription]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[Complaints]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="Category" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="f75951af-c4b0-4b27-a9e9-e95f165978f0" ChangeDateTime="05/28/2024 21:00:54">
+    <Property Name="ElementName" Value="[dbo].[Complaints].[SourceAddress]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[Complaints]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="ComplaintDescription" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="e79d1727-db16-4e13-b14f-1a7f279fb2f0" ChangeDateTime="05/29/2024 10:10:48">
+    <Property Name="ElementName" Value="[dbo].[Complaints].[CurrentStatus]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[Complaints]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="Status" />
+  </Operation>
+</Operations>

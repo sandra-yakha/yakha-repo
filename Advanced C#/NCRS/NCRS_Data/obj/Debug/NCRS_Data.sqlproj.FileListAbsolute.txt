@@ -1,0 +1,6 @@
+C:\Users\san3s\Desktop\Exercises\WebApplications\NCRS\NCRS_Data\bin\Debug\NCRS_Data.dacpac
+C:\Users\san3s\Desktop\Exercises\WebApplications\NCRS\NCRS_Data\bin\Debug\NCRS_Data.dll
+C:\Users\san3s\Desktop\Exercises\WebApplications\NCRS\NCRS_Data\bin\Debug\NCRS_Data.pdb
+C:\Users\san3s\Desktop\Exercises\WebApplications\NCRS\NCRS_Data\obj\Debug\NCRS_Data.sqlproj.AssemblyReference.cache
+C:\Users\san3s\Desktop\Exercises\WebApplications\NCRS\NCRS_Data\obj\Debug\NCRS_Data.dll
+C:\Users\san3s\Desktop\Exercises\WebApplications\NCRS\NCRS_Data\obj\Debug\NCRS_Data.pdb
