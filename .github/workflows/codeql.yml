@@ -39,7 +39,7 @@ jobs:
       run: dotnet restore "yakha-repo/Advanced C#/NCRS"
 
     - name: Build the project
-      run: dotnet build --no-restore path/to/your/project
+      run: dotnet build --no-restore "yakha-repo/Advanced C#/NCRS"
 
     - name: Initialize CodeQL
       uses: github/codeql-action/init@v3
