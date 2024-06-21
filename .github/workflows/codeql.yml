@@ -36,10 +36,10 @@ jobs:
         dotnet-version: '8.x'  
 
     - name: Restore dependencies
-      run: dotnet restore "yakha-repo/Advanced C#/NCRS"
+      run: dotnet restore "yakha-repo/Advanced C#/NCRS/NeighbourComplaintRegistrationSystem"
 
     - name: Build the project
-      run: dotnet build --no-restore "yakha-repo/Advanced C#/NCRS"
+      run: dotnet build --no-restore "yakha-repo/Advanced C#/NCRS/NeighbourComplaintRegistrationSystem"
 
     - name: Initialize CodeQL
       uses: github/codeql-action/init@v3
